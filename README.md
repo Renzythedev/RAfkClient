@@ -6,8 +6,8 @@ The base version is **1.20.1**, and it is designed to be flexible and extendable
 **Default Commands:**
 - **help:** Displays all commands along with their descriptions.
 - **name**
- - **get:** Displays the session name.
- - **set:** Sets the session name.
+  - **get:** Displays the session name.
+  - **set:** Sets the session name.
 - **close:** Closes the client.
 - **connect:** Connects to a specified hosted server.
 - **disconnect:** Disconnects from the connected server.
